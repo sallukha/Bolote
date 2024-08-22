@@ -1,0 +1,7 @@
+*{
+    background-color: rgb(214, 204, 204);
+}.zero{
+  filter: drop-shadow(1px 1px 20px  rgb(144, 141, 141));
+  border-radius: 50%;
+
+}
